@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DrawH\\source\\repos\\Adapterejemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36CEFC-6034-4CDF-8F91-7FF69C120641}|Adapterejemplo\\Adapterejemplo.csproj|c:\\users\\drawh\\source\\repos\\adapterejemplo\\adapterejemplo\\icommunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36CEFC-6034-4CDF-8F91-7FF69C120641}|Adapterejemplo\\Adapterejemplo.csproj|solutionrelative:adapterejemplo\\icommunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36CEFC-6034-4CDF-8F91-7FF69C120641}|Adapterejemplo\\Adapterejemplo.csproj|c:\\users\\drawh\\source\\repos\\adapterejemplo\\adapterejemplo\\communicationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36CEFC-6034-4CDF-8F91-7FF69C120641}|Adapterejemplo\\Adapterejemplo.csproj|solutionrelative:adapterejemplo\\communicationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36CEFC-6034-4CDF-8F91-7FF69C120641}|Adapterejemplo\\Adapterejemplo.csproj|c:\\users\\drawh\\source\\repos\\adapterejemplo\\adapterejemplo\\englishspeaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36CEFC-6034-4CDF-8F91-7FF69C120641}|Adapterejemplo\\Adapterejemplo.csproj|solutionrelative:adapterejemplo\\englishspeaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36CEFC-6034-4CDF-8F91-7FF69C120641}|Adapterejemplo\\Adapterejemplo.csproj|c:\\users\\drawh\\source\\repos\\adapterejemplo\\adapterejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36CEFC-6034-4CDF-8F91-7FF69C120641}|Adapterejemplo\\Adapterejemplo.csproj|solutionrelative:adapterejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36CEFC-6034-4CDF-8F91-7FF69C120641}|Adapterejemplo\\Adapterejemplo.csproj|c:\\users\\drawh\\source\\repos\\adapterejemplo\\adapterejemplo\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36CEFC-6034-4CDF-8F91-7FF69C120641}|Adapterejemplo\\Adapterejemplo.csproj|solutionrelative:adapterejemplo\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36CEFC-6034-4CDF-8F91-7FF69C120641}|Adapterejemplo\\Adapterejemplo.csproj|c:\\users\\drawh\\source\\repos\\adapterejemplo\\adapterejemplo\\spanishspeaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36CEFC-6034-4CDF-8F91-7FF69C120641}|Adapterejemplo\\Adapterejemplo.csproj|solutionrelative:adapterejemplo\\spanishspeaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommunicationSystem.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Adapterejemplo\\Adapterejemplo\\CommunicationSystem.cs",
+              "RelativeDocumentMoniker": "Adapterejemplo\\CommunicationSystem.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Adapterejemplo\\Adapterejemplo\\CommunicationSystem.cs",
+              "RelativeToolTip": "Adapterejemplo\\CommunicationSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:20:28.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Translator.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Adapterejemplo\\Adapterejemplo\\Translator.cs",
+              "RelativeDocumentMoniker": "Adapterejemplo\\Translator.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Adapterejemplo\\Adapterejemplo\\Translator.cs",
+              "RelativeToolTip": "Adapterejemplo\\Translator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:57:05.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpanishSpeaker.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Adapterejemplo\\Adapterejemplo\\SpanishSpeaker.cs",
+              "RelativeDocumentMoniker": "Adapterejemplo\\SpanishSpeaker.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Adapterejemplo\\Adapterejemplo\\SpanishSpeaker.cs",
+              "RelativeToolTip": "Adapterejemplo\\SpanishSpeaker.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:46:32.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnglishSpeaker.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Adapterejemplo\\Adapterejemplo\\EnglishSpeaker.cs",
+              "RelativeDocumentMoniker": "Adapterejemplo\\EnglishSpeaker.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Adapterejemplo\\Adapterejemplo\\EnglishSpeaker.cs",
+              "RelativeToolTip": "Adapterejemplo\\EnglishSpeaker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:34:03.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICommunication.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Adapterejemplo\\Adapterejemplo\\ICommunication.cs",
+              "RelativeDocumentMoniker": "Adapterejemplo\\ICommunication.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Adapterejemplo\\Adapterejemplo\\ICommunication.cs",
+              "RelativeToolTip": "Adapterejemplo\\ICommunication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:28:36.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Adapterejemplo\\Adapterejemplo\\Program.cs",
+              "RelativeDocumentMoniker": "Adapterejemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Adapterejemplo\\Adapterejemplo\\Program.cs",
+              "RelativeToolTip": "Adapterejemplo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:25:36.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

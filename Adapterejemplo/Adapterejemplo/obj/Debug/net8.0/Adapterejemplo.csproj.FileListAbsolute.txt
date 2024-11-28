@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\Adapterejemplo\Adapterejemplo\bin\Debug\net8.0\Adapterejemplo.exe
+C:\Users\DrawH\source\repos\Adapterejemplo\Adapterejemplo\bin\Debug\net8.0\Adapterejemplo.deps.json
+C:\Users\DrawH\source\repos\Adapterejemplo\Adapterejemplo\bin\Debug\net8.0\Adapterejemplo.runtimeconfig.json
+C:\Users\DrawH\source\repos\Adapterejemplo\Adapterejemplo\bin\Debug\net8.0\Adapterejemplo.dll
+C:\Users\DrawH\source\repos\Adapterejemplo\Adapterejemplo\bin\Debug\net8.0\Adapterejemplo.pdb
+C:\Users\DrawH\source\repos\Adapterejemplo\Adapterejemplo\obj\Debug\net8.0\Adapterejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\Adapterejemplo\Adapterejemplo\obj\Debug\net8.0\Adapterejemplo.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\Adapterejemplo\Adapterejemplo\obj\Debug\net8.0\Adapterejemplo.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\Adapterejemplo\Adapterejemplo\obj\Debug\net8.0\Adapterejemplo.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\Adapterejemplo\Adapterejemplo\obj\Debug\net8.0\Adapterejemplo.dll
+C:\Users\DrawH\source\repos\Adapterejemplo\Adapterejemplo\obj\Debug\net8.0\refint\Adapterejemplo.dll
+C:\Users\DrawH\source\repos\Adapterejemplo\Adapterejemplo\obj\Debug\net8.0\Adapterejemplo.pdb
+C:\Users\DrawH\source\repos\Adapterejemplo\Adapterejemplo\obj\Debug\net8.0\Adapterejemplo.genruntimeconfig.cache
+C:\Users\DrawH\source\repos\Adapterejemplo\Adapterejemplo\obj\Debug\net8.0\ref\Adapterejemplo.dll

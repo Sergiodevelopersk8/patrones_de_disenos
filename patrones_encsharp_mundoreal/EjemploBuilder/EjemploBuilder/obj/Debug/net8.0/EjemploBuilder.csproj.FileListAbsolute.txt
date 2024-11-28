@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\EjemploBuilder\EjemploBuilder\bin\Debug\net8.0\EjemploBuilder.exe
+C:\Users\DrawH\source\repos\EjemploBuilder\EjemploBuilder\bin\Debug\net8.0\EjemploBuilder.deps.json
+C:\Users\DrawH\source\repos\EjemploBuilder\EjemploBuilder\bin\Debug\net8.0\EjemploBuilder.runtimeconfig.json
+C:\Users\DrawH\source\repos\EjemploBuilder\EjemploBuilder\bin\Debug\net8.0\EjemploBuilder.dll
+C:\Users\DrawH\source\repos\EjemploBuilder\EjemploBuilder\bin\Debug\net8.0\EjemploBuilder.pdb
+C:\Users\DrawH\source\repos\EjemploBuilder\EjemploBuilder\obj\Debug\net8.0\EjemploBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\EjemploBuilder\EjemploBuilder\obj\Debug\net8.0\EjemploBuilder.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\EjemploBuilder\EjemploBuilder\obj\Debug\net8.0\EjemploBuilder.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\EjemploBuilder\EjemploBuilder\obj\Debug\net8.0\EjemploBuilder.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\EjemploBuilder\EjemploBuilder\obj\Debug\net8.0\EjemploBuilder.dll
+C:\Users\DrawH\source\repos\EjemploBuilder\EjemploBuilder\obj\Debug\net8.0\refint\EjemploBuilder.dll
+C:\Users\DrawH\source\repos\EjemploBuilder\EjemploBuilder\obj\Debug\net8.0\EjemploBuilder.pdb
+C:\Users\DrawH\source\repos\EjemploBuilder\EjemploBuilder\obj\Debug\net8.0\EjemploBuilder.genruntimeconfig.cache
+C:\Users\DrawH\source\repos\EjemploBuilder\EjemploBuilder\obj\Debug\net8.0\ref\EjemploBuilder.dll

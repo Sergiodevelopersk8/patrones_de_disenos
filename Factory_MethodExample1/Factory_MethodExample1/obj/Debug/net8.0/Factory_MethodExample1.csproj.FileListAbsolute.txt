@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\Factory_MethodExample1\Factory_MethodExample1\bin\Debug\net8.0\Factory_MethodExample1.exe
+C:\Users\DrawH\source\repos\Factory_MethodExample1\Factory_MethodExample1\bin\Debug\net8.0\Factory_MethodExample1.deps.json
+C:\Users\DrawH\source\repos\Factory_MethodExample1\Factory_MethodExample1\bin\Debug\net8.0\Factory_MethodExample1.runtimeconfig.json
+C:\Users\DrawH\source\repos\Factory_MethodExample1\Factory_MethodExample1\bin\Debug\net8.0\Factory_MethodExample1.dll
+C:\Users\DrawH\source\repos\Factory_MethodExample1\Factory_MethodExample1\bin\Debug\net8.0\Factory_MethodExample1.pdb
+C:\Users\DrawH\source\repos\Factory_MethodExample1\Factory_MethodExample1\obj\Debug\net8.0\Factory_MethodExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\Factory_MethodExample1\Factory_MethodExample1\obj\Debug\net8.0\Factory_MethodExample1.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\Factory_MethodExample1\Factory_MethodExample1\obj\Debug\net8.0\Factory_MethodExample1.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\Factory_MethodExample1\Factory_MethodExample1\obj\Debug\net8.0\Factory_MethodExample1.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\Factory_MethodExample1\Factory_MethodExample1\obj\Debug\net8.0\Factory_MethodExample1.dll
+C:\Users\DrawH\source\repos\Factory_MethodExample1\Factory_MethodExample1\obj\Debug\net8.0\refint\Factory_MethodExample1.dll
+C:\Users\DrawH\source\repos\Factory_MethodExample1\Factory_MethodExample1\obj\Debug\net8.0\Factory_MethodExample1.pdb
+C:\Users\DrawH\source\repos\Factory_MethodExample1\Factory_MethodExample1\obj\Debug\net8.0\Factory_MethodExample1.genruntimeconfig.cache
+C:\Users\DrawH\source\repos\Factory_MethodExample1\Factory_MethodExample1\obj\Debug\net8.0\ref\Factory_MethodExample1.dll

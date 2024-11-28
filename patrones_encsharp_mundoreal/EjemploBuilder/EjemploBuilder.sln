@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjemploBuilder", "EjemploBuilder\EjemploBuilder.csproj", "{89A6F308-B831-441D-854A-8443C1736411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hamburguesa_builder_ejemplo", "Hamburguesa_builder_ejemplo\Hamburguesa_builder_ejemplo.csproj", "{750F0BD8-2DE2-49E9-96E5-8256119338CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89A6F308-B831-441D-854A-8443C1736411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A6F308-B831-441D-854A-8443C1736411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A6F308-B831-441D-854A-8443C1736411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A6F308-B831-441D-854A-8443C1736411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750F0BD8-2DE2-49E9-96E5-8256119338CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750F0BD8-2DE2-49E9-96E5-8256119338CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750F0BD8-2DE2-49E9-96E5-8256119338CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750F0BD8-2DE2-49E9-96E5-8256119338CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F42D03C-583B-4A43-B07B-E5A1CE8FF141}
+	EndGlobalSection
+EndGlobal

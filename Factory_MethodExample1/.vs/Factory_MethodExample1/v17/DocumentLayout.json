@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|c:\\users\\drawh\\source\\repos\\factory_methodexample1\\factory_methodexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|solutionrelative:factory_methodexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|c:\\users\\drawh\\source\\repos\\factory_methodexample1\\factory_methodexample1\\factories\\bikefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|solutionrelative:factory_methodexample1\\factories\\bikefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|c:\\users\\drawh\\source\\repos\\factory_methodexample1\\factory_methodexample1\\factories\\motorcyclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|solutionrelative:factory_methodexample1\\factories\\motorcyclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|c:\\users\\drawh\\source\\repos\\factory_methodexample1\\factory_methodexample1\\factories\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|solutionrelative:factory_methodexample1\\factories\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|c:\\users\\drawh\\source\\repos\\factory_methodexample1\\factory_methodexample1\\products\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|solutionrelative:factory_methodexample1\\products\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|c:\\users\\drawh\\source\\repos\\factory_methodexample1\\factory_methodexample1\\factories\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|solutionrelative:factory_methodexample1\\factories\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|c:\\users\\drawh\\source\\repos\\factory_methodexample1\\factory_methodexample1\\products\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|solutionrelative:factory_methodexample1\\products\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|c:\\users\\drawh\\source\\repos\\factory_methodexample1\\factory_methodexample1\\products\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|solutionrelative:factory_methodexample1\\products\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|c:\\users\\drawh\\source\\repos\\factory_methodexample1\\factory_methodexample1\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344B5D00-3550-4426-B232-438ED4A446BF}|Factory_MethodExample1\\Factory_MethodExample1.csproj|solutionrelative:factory_methodexample1\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Factories\\CarFactory.cs",
+              "RelativeDocumentMoniker": "Factory_MethodExample1\\Factories\\CarFactory.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Factories\\CarFactory.cs",
+              "RelativeToolTip": "Factory_MethodExample1\\Factories\\CarFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T06:31:35.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BikeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Factories\\BikeFactory.cs",
+              "RelativeDocumentMoniker": "Factory_MethodExample1\\Factories\\BikeFactory.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Factories\\BikeFactory.cs",
+              "RelativeToolTip": "Factory_MethodExample1\\Factories\\BikeFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T06:28:24.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Factories\\VehicleFactory.cs",
+              "RelativeDocumentMoniker": "Factory_MethodExample1\\Factories\\VehicleFactory.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Factories\\VehicleFactory.cs",
+              "RelativeToolTip": "Factory_MethodExample1\\Factories\\VehicleFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T06:25:11.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Products\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Factory_MethodExample1\\Products\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Products\\Motorcycle.cs",
+              "RelativeToolTip": "Factory_MethodExample1\\Products\\Motorcycle.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T06:22:21.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Products\\Car.cs",
+              "RelativeDocumentMoniker": "Factory_MethodExample1\\Products\\Car.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Products\\Car.cs",
+              "RelativeToolTip": "Factory_MethodExample1\\Products\\Car.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T06:20:21.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Products\\Bike.cs",
+              "RelativeDocumentMoniker": "Factory_MethodExample1\\Products\\Bike.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Products\\Bike.cs",
+              "RelativeToolTip": "Factory_MethodExample1\\Products\\Bike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T06:17:40.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Program.cs",
+              "RelativeDocumentMoniker": "Factory_MethodExample1\\Program.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Program.cs",
+              "RelativeToolTip": "Factory_MethodExample1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T06:13:48.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MotorcycleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Factories\\MotorcycleFactory.cs",
+              "RelativeDocumentMoniker": "Factory_MethodExample1\\Factories\\MotorcycleFactory.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\Factories\\MotorcycleFactory.cs",
+              "RelativeToolTip": "Factory_MethodExample1\\Factories\\MotorcycleFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T06:34:03.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\IVehicle.cs",
+              "RelativeDocumentMoniker": "Factory_MethodExample1\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\Factory_MethodExample1\\Factory_MethodExample1\\IVehicle.cs",
+              "RelativeToolTip": "Factory_MethodExample1\\IVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T06:16:23.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\PrototypeExample1\PrototypeExample1\bin\Debug\net8.0\PrototypeExample1.exe
+C:\Users\DrawH\source\repos\PrototypeExample1\PrototypeExample1\bin\Debug\net8.0\PrototypeExample1.deps.json
+C:\Users\DrawH\source\repos\PrototypeExample1\PrototypeExample1\bin\Debug\net8.0\PrototypeExample1.runtimeconfig.json
+C:\Users\DrawH\source\repos\PrototypeExample1\PrototypeExample1\bin\Debug\net8.0\PrototypeExample1.dll
+C:\Users\DrawH\source\repos\PrototypeExample1\PrototypeExample1\bin\Debug\net8.0\PrototypeExample1.pdb
+C:\Users\DrawH\source\repos\PrototypeExample1\PrototypeExample1\obj\Debug\net8.0\PrototypeExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\PrototypeExample1\PrototypeExample1\obj\Debug\net8.0\PrototypeExample1.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\PrototypeExample1\PrototypeExample1\obj\Debug\net8.0\PrototypeExample1.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\PrototypeExample1\PrototypeExample1\obj\Debug\net8.0\PrototypeExample1.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\PrototypeExample1\PrototypeExample1\obj\Debug\net8.0\PrototypeExample1.dll
+C:\Users\DrawH\source\repos\PrototypeExample1\PrototypeExample1\obj\Debug\net8.0\refint\PrototypeExample1.dll
+C:\Users\DrawH\source\repos\PrototypeExample1\PrototypeExample1\obj\Debug\net8.0\PrototypeExample1.pdb
+C:\Users\DrawH\source\repos\PrototypeExample1\PrototypeExample1\obj\Debug\net8.0\PrototypeExample1.genruntimeconfig.cache
+C:\Users\DrawH\source\repos\PrototypeExample1\PrototypeExample1\obj\Debug\net8.0\ref\PrototypeExample1.dll

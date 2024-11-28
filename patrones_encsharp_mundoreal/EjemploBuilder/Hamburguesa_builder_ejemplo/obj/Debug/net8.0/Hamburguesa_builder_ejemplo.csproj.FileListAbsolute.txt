@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\EjemploBuilder\Hamburguesa_builder_ejemplo\bin\Debug\net8.0\Hamburguesa_builder_ejemplo.exe
+C:\Users\DrawH\source\repos\EjemploBuilder\Hamburguesa_builder_ejemplo\bin\Debug\net8.0\Hamburguesa_builder_ejemplo.deps.json
+C:\Users\DrawH\source\repos\EjemploBuilder\Hamburguesa_builder_ejemplo\bin\Debug\net8.0\Hamburguesa_builder_ejemplo.runtimeconfig.json
+C:\Users\DrawH\source\repos\EjemploBuilder\Hamburguesa_builder_ejemplo\bin\Debug\net8.0\Hamburguesa_builder_ejemplo.dll
+C:\Users\DrawH\source\repos\EjemploBuilder\Hamburguesa_builder_ejemplo\bin\Debug\net8.0\Hamburguesa_builder_ejemplo.pdb
+C:\Users\DrawH\source\repos\EjemploBuilder\Hamburguesa_builder_ejemplo\obj\Debug\net8.0\Hamburguesa_builder_ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\EjemploBuilder\Hamburguesa_builder_ejemplo\obj\Debug\net8.0\Hamburguesa_builder_ejemplo.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\EjemploBuilder\Hamburguesa_builder_ejemplo\obj\Debug\net8.0\Hamburguesa_builder_ejemplo.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\EjemploBuilder\Hamburguesa_builder_ejemplo\obj\Debug\net8.0\Hamburguesa_builder_ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\EjemploBuilder\Hamburguesa_builder_ejemplo\obj\Debug\net8.0\Hamburguesa_builder_ejemplo.dll
+C:\Users\DrawH\source\repos\EjemploBuilder\Hamburguesa_builder_ejemplo\obj\Debug\net8.0\refint\Hamburguesa_builder_ejemplo.dll
+C:\Users\DrawH\source\repos\EjemploBuilder\Hamburguesa_builder_ejemplo\obj\Debug\net8.0\Hamburguesa_builder_ejemplo.pdb
+C:\Users\DrawH\source\repos\EjemploBuilder\Hamburguesa_builder_ejemplo\obj\Debug\net8.0\Hamburguesa_builder_ejemplo.genruntimeconfig.cache
+C:\Users\DrawH\source\repos\EjemploBuilder\Hamburguesa_builder_ejemplo\obj\Debug\net8.0\ref\Hamburguesa_builder_ejemplo.dll

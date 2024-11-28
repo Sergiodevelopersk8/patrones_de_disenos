@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\MonsterPrototypeExample\MonsterPrototypeExample\bin\Debug\net8.0\MonsterPrototypeExample.exe
+C:\Users\DrawH\source\repos\MonsterPrototypeExample\MonsterPrototypeExample\bin\Debug\net8.0\MonsterPrototypeExample.deps.json
+C:\Users\DrawH\source\repos\MonsterPrototypeExample\MonsterPrototypeExample\bin\Debug\net8.0\MonsterPrototypeExample.runtimeconfig.json
+C:\Users\DrawH\source\repos\MonsterPrototypeExample\MonsterPrototypeExample\bin\Debug\net8.0\MonsterPrototypeExample.dll
+C:\Users\DrawH\source\repos\MonsterPrototypeExample\MonsterPrototypeExample\bin\Debug\net8.0\MonsterPrototypeExample.pdb
+C:\Users\DrawH\source\repos\MonsterPrototypeExample\MonsterPrototypeExample\obj\Debug\net8.0\MonsterPrototypeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\MonsterPrototypeExample\MonsterPrototypeExample\obj\Debug\net8.0\MonsterPrototypeExample.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\MonsterPrototypeExample\MonsterPrototypeExample\obj\Debug\net8.0\MonsterPrototypeExample.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\MonsterPrototypeExample\MonsterPrototypeExample\obj\Debug\net8.0\MonsterPrototypeExample.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\MonsterPrototypeExample\MonsterPrototypeExample\obj\Debug\net8.0\MonsterPrototypeExample.dll
+C:\Users\DrawH\source\repos\MonsterPrototypeExample\MonsterPrototypeExample\obj\Debug\net8.0\refint\MonsterPrototypeExample.dll
+C:\Users\DrawH\source\repos\MonsterPrototypeExample\MonsterPrototypeExample\obj\Debug\net8.0\MonsterPrototypeExample.pdb
+C:\Users\DrawH\source\repos\MonsterPrototypeExample\MonsterPrototypeExample\obj\Debug\net8.0\MonsterPrototypeExample.genruntimeconfig.cache
+C:\Users\DrawH\source\repos\MonsterPrototypeExample\MonsterPrototypeExample\obj\Debug\net8.0\ref\MonsterPrototypeExample.dll

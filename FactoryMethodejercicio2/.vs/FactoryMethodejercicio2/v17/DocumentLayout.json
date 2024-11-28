@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|c:\\users\\drawh\\source\\repos\\factorymethodejercicio2\\factorymethodejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|solutionrelative:factorymethodejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|c:\\users\\drawh\\source\\repos\\factorymethodejercicio2\\factorymethodejercicio2\\factories\\emailnotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|solutionrelative:factorymethodejercicio2\\factories\\emailnotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|c:\\users\\drawh\\source\\repos\\factorymethodejercicio2\\factorymethodejercicio2\\factories\\smsnotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|solutionrelative:factorymethodejercicio2\\factories\\smsnotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|c:\\users\\drawh\\source\\repos\\factorymethodejercicio2\\factorymethodejercicio2\\factories\\pushnotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|solutionrelative:factorymethodejercicio2\\factories\\pushnotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|c:\\users\\drawh\\source\\repos\\factorymethodejercicio2\\factorymethodejercicio2\\factories\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|solutionrelative:factorymethodejercicio2\\factories\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|c:\\users\\drawh\\source\\repos\\factorymethodejercicio2\\factorymethodejercicio2\\products\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|solutionrelative:factorymethodejercicio2\\products\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|c:\\users\\drawh\\source\\repos\\factorymethodejercicio2\\factorymethodejercicio2\\products\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|solutionrelative:factorymethodejercicio2\\products\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|c:\\users\\drawh\\source\\repos\\factorymethodejercicio2\\factorymethodejercicio2\\products\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|solutionrelative:factorymethodejercicio2\\products\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|c:\\users\\drawh\\source\\repos\\factorymethodejercicio2\\factorymethodejercicio2\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62D7FDF-21D8-4EC2-B049-80649A6A4464}|FactoryMethodejercicio2\\FactoryMethodejercicio2.csproj|solutionrelative:factorymethodejercicio2\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailNotificationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Factories\\EmailNotificationFactory.cs",
+              "RelativeDocumentMoniker": "FactoryMethodejercicio2\\Factories\\EmailNotificationFactory.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Factories\\EmailNotificationFactory.cs",
+              "RelativeToolTip": "FactoryMethodejercicio2\\Factories\\EmailNotificationFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:35:18.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmsNotificationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Factories\\SmsNotificationFactory.cs",
+              "RelativeDocumentMoniker": "FactoryMethodejercicio2\\Factories\\SmsNotificationFactory.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Factories\\SmsNotificationFactory.cs",
+              "RelativeToolTip": "FactoryMethodejercicio2\\Factories\\SmsNotificationFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:34:04.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PushNotificationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Factories\\PushNotificationFactory.cs",
+              "RelativeDocumentMoniker": "FactoryMethodejercicio2\\Factories\\PushNotificationFactory.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Factories\\PushNotificationFactory.cs",
+              "RelativeToolTip": "FactoryMethodejercicio2\\Factories\\PushNotificationFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:32:21.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Factories\\NotificationFactory.cs",
+              "RelativeDocumentMoniker": "FactoryMethodejercicio2\\Factories\\NotificationFactory.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Factories\\NotificationFactory.cs",
+              "RelativeToolTip": "FactoryMethodejercicio2\\Factories\\NotificationFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:30:28.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryMethodejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Program.cs",
+              "RelativeToolTip": "FactoryMethodejercicio2\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:22:40.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmsNotification.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Products\\SmsNotification.cs",
+              "RelativeDocumentMoniker": "FactoryMethodejercicio2\\Products\\SmsNotification.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Products\\SmsNotification.cs",
+              "RelativeToolTip": "FactoryMethodejercicio2\\Products\\SmsNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:29:25.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PushNotification.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Products\\PushNotification.cs",
+              "RelativeDocumentMoniker": "FactoryMethodejercicio2\\Products\\PushNotification.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Products\\PushNotification.cs",
+              "RelativeToolTip": "FactoryMethodejercicio2\\Products\\PushNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:27:49.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Products\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "FactoryMethodejercicio2\\Products\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\Products\\EmailNotification.cs",
+              "RelativeToolTip": "FactoryMethodejercicio2\\Products\\EmailNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:25:49.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\INotification.cs",
+              "RelativeDocumentMoniker": "FactoryMethodejercicio2\\INotification.cs",
+              "ToolTip": "C:\\Users\\DrawH\\source\\repos\\FactoryMethodejercicio2\\FactoryMethodejercicio2\\INotification.cs",
+              "RelativeToolTip": "FactoryMethodejercicio2\\INotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:24:43.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

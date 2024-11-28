@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\AbstractFactory.Example1\AbstractFactory.Example1\bin\Debug\net8.0\AbstractFactory.Example1.exe
+C:\Users\DrawH\source\repos\AbstractFactory.Example1\AbstractFactory.Example1\bin\Debug\net8.0\AbstractFactory.Example1.deps.json
+C:\Users\DrawH\source\repos\AbstractFactory.Example1\AbstractFactory.Example1\bin\Debug\net8.0\AbstractFactory.Example1.runtimeconfig.json
+C:\Users\DrawH\source\repos\AbstractFactory.Example1\AbstractFactory.Example1\bin\Debug\net8.0\AbstractFactory.Example1.dll
+C:\Users\DrawH\source\repos\AbstractFactory.Example1\AbstractFactory.Example1\bin\Debug\net8.0\AbstractFactory.Example1.pdb
+C:\Users\DrawH\source\repos\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\AbstractFactory.Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\AbstractFactory.Example1.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\AbstractFactory.Example1.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\AbstractFactory.Example1.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\AbstractFactory.Example1.dll
+C:\Users\DrawH\source\repos\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\refint\AbstractFactory.Example1.dll
+C:\Users\DrawH\source\repos\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\AbstractFactory.Example1.pdb
+C:\Users\DrawH\source\repos\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\AbstractFactory.Example1.genruntimeconfig.cache
+C:\Users\DrawH\source\repos\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\ref\AbstractFactory.Example1.dll

@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\FactoryMethodejercicio2\FactoryMethodejercicio2\bin\Debug\net8.0\FactoryMethodejercicio2.exe
+C:\Users\DrawH\source\repos\FactoryMethodejercicio2\FactoryMethodejercicio2\bin\Debug\net8.0\FactoryMethodejercicio2.deps.json
+C:\Users\DrawH\source\repos\FactoryMethodejercicio2\FactoryMethodejercicio2\bin\Debug\net8.0\FactoryMethodejercicio2.runtimeconfig.json
+C:\Users\DrawH\source\repos\FactoryMethodejercicio2\FactoryMethodejercicio2\bin\Debug\net8.0\FactoryMethodejercicio2.dll
+C:\Users\DrawH\source\repos\FactoryMethodejercicio2\FactoryMethodejercicio2\bin\Debug\net8.0\FactoryMethodejercicio2.pdb
+C:\Users\DrawH\source\repos\FactoryMethodejercicio2\FactoryMethodejercicio2\obj\Debug\net8.0\FactoryMethodejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\FactoryMethodejercicio2\FactoryMethodejercicio2\obj\Debug\net8.0\FactoryMethodejercicio2.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\FactoryMethodejercicio2\FactoryMethodejercicio2\obj\Debug\net8.0\FactoryMethodejercicio2.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\FactoryMethodejercicio2\FactoryMethodejercicio2\obj\Debug\net8.0\FactoryMethodejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\FactoryMethodejercicio2\FactoryMethodejercicio2\obj\Debug\net8.0\FactoryMethodejercicio2.dll
+C:\Users\DrawH\source\repos\FactoryMethodejercicio2\FactoryMethodejercicio2\obj\Debug\net8.0\refint\FactoryMethodejercicio2.dll
+C:\Users\DrawH\source\repos\FactoryMethodejercicio2\FactoryMethodejercicio2\obj\Debug\net8.0\FactoryMethodejercicio2.pdb
+C:\Users\DrawH\source\repos\FactoryMethodejercicio2\FactoryMethodejercicio2\obj\Debug\net8.0\FactoryMethodejercicio2.genruntimeconfig.cache
+C:\Users\DrawH\source\repos\FactoryMethodejercicio2\FactoryMethodejercicio2\obj\Debug\net8.0\ref\FactoryMethodejercicio2.dll
